@@ -22,10 +22,4 @@ Welcome to my GitHub profile! I'm a Software Engineering student with a focus on
 
 ---
 
-## 🔗 Connect with Me
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Portfolio: [Your Portfolio](https://yourportfolio.com)
-
----
-
 Thanks for visiting!
