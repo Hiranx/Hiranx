@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Software Engineering student with a focus on
 - **Languages**: Java, JavaScript, Kotlin, Python, HTML, CSS
 - **Frameworks/Libraries**: React, Node.js, Express.js, MongoDB
 - **Mobile Development**: Kotlin, Android Studio
-- 
+  
 ---
 
 ## 📈 GitHub Stats
