@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hiran ...
 
-Welcome to my GitHub profile! I'm a Software Engineering student with a focus on developing innovative mobile applications, web applications, and systems. Here you'll find a collection of my work, personal projects, and collaborative contributions.
+Welcome to my GitHub profile! I'm a Software Engineering student. Here you'll find a collection of my work, personal projects, and collaborative contributions.
 
 ## 🛠️ Technologies & Tools:
 
