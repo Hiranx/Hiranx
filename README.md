@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm a Software Engineering student with a focus on
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hiranx&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiranx&layout=compact&theme=radical)
 
 ---
 
