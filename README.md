@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Hiran ...
 
-Welcome to my GitHub profile! I'm a Software Engineering student. Here you'll find a collection of my work, personal projects, and collaborative contributions.
-
 ## 🛠️ Technologies & Tools:
 
 ### Languages
