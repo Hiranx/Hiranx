@@ -34,5 +34,3 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiranx&layout=compact&theme=radical)
 
 ---
-
-Thanks for visiting!
