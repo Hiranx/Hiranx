@@ -31,7 +31,6 @@
 
 ## 📈 GitHub Stats
 ![Hiranx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hiranx&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=issues)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiranx&layout=compact&theme=radical&langs_count=10)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hiranx&theme=radical)
