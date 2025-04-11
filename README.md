@@ -34,3 +34,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hiranx&layout=compact&theme=radical)
 
 ---
+
+## 📬 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hiran9204@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/hiran-rathnayake-a56874337)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([https://www.instagram.com/yourhandle](https://www.instagram.com/hiran._?igsh=c3B5MG93OWM3M2lz&utm_source=qr))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)]([https://www.facebook.com/yourprofile](https://www.facebook.com/share/14igayKYXA/?mibextid=wwXIfr))
