@@ -35,9 +35,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hiranx&theme=radical)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Hiranx&theme=radical&row=1&column=5)
-
-
 ---
 
 ## 📬 Contact Me
